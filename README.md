@@ -1,12 +1,25 @@
 # Python-lab-1![photo_5380037736649578650_y](https://github.com/Savch1k/Python-lab-1/assets/160525024/f300a2ff-d656-40e5-9454-7914d6d65c1e)
-![photo_5380037736649578649_y](https://github.com/Savch1k/Python-lab-1/assets/160525024/54be9e51-3966-440e-bdbb-336484fa6cd8)
-![photo_5380037736649578648_y](https://github.com/Savch1k/Python-lab-1/assets/160525024/6b19fb93-8680-43a6-bc5d-b61281435e45)
-![photo_5380037736649578647_y](https://github.com/Savch1k/Python-lab-1/assets/160525024/58a10c94-c1ae-42a0-847a-7ee3d80a2245)
-![photo_5380037736649578646_y](https://github.com/Savch1k/Python-lab-1/assets/160525024/e5495ee0-b8c3-451e-81bb-ddb5c63efb25)
-![photo_5380037736649578645_y](https://github.com/Savch1k/Python-lab-1/assets/160525024/e4d4a42e-e82a-4d4f-8bf1-7effb06d2923)
-![photo_5380037736649578643_y](https://github.com/Savch1k/Python-lab-1/assets/160525024/9335c235-ab20-4c74-b8e6-bf45486f5ea7)
-![photo_5380037736649578641_y](https://github.com/Savch1k/Python-lab-1/assets/160525024/f97ede2c-8af6-4e9a-9f4c-9e671ee2c61c)
-![photo_5380037736649578630_y](https://github.com/Savch1k/Python-lab-1/assets/160525024/a2e20059-0bc1-4026-b9f4-b994bcbaac48)
-![photo_5380037736649578629_y](https://github.com/Savch1k/Python-lab-1/assets/160525024/41db2ba3-380e-4bde-8d63-8a589d04365a)
-![photo_5380037736649578628_y](https://github.com/Savch1k/Python-lab-1/assets/160525024/a6bf07b1-2675-4465-b009-5a3b2d337ad4)
-![photo_5380037736649578627_y](https://github.com/Savch1k/Python-lab-1/assets/160525024/caf673d4-e8e9-4bbc-8a8e-280a8a13aae9)
+1. Дистанция между городами
+
+2.Лежит ли точка в радиусе 
+![photo_5380037736649578627_y](https://github.com/Savch1k/Python-lab-1/assets/160525024/ddf28c2c-0cb3-437f-9e92-6daa34478e3c)
+3.Получить число 25 из чисел 1 2 3 4 5
+![photo_5380037736649578629_y](https://github.com/Savch1k/Python-lab-1/assets/160525024/39a706f2-146d-453f-aab9-a0f4671eb2aa)
+
+4.Работа со срезами
+
+5.Работа со списком
+
+6.Работа со списком
+
+7.Работа со списком и словарем
+
+8.Расшифровка сообщения
+
+9.Работа с двумя множествами
+
+10.Работа со словаерм
+
+11.Работа со словорями
+
+
